@@ -1,0 +1,18 @@
+Enter filename: sampleenoch
+Enter modulus number: 26
+Enter keyword: ENOCH
+phase0: m0 ['I', 'A', 'C', 'E', 'O'] phase0: m1 ['A', 'A', 'A', 'A', 'A'] phase0: m2 ['I', 'A', 'C', 'E', 'O']
+phase1: m0 ['Q', 'A', 'E', 'I', 'C'] phase0: m1 ['A', 'A', 'A', 'A', 'A'] phase0: m2 ['Q', 'A', 'E', 'I', 'C']
+phase2: m0 ['G', 'A', 'I', 'Q', 'E'] phase0: m1 ['A', 'A', 'A', 'A', 'A'] phase0: m2 ['G', 'A', 'I', 'Q', 'E']
+path0:  HCLUJ
+path1:  BCDEF
+path2:  HCLUJ
+double +  MAQGI
+double -  AAAAA
+Hebew Delta MAQGI
+Hebew Transformations LYNCD FRFTT
+Betel Delta MAQGI
+Betel Transformations RFVLN PDTJL
+Betel Heqet Venus Delta IACEO
+Betel Heqet Venus T QAEIC
+Betel Heqet Venus Transformations JJTNO HZRDN
